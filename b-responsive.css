@@ -900,12 +900,12 @@
 	}
 
 	#badges .badge{
-		background-image: url(images/badges-retina.png); !important;
+		background-image: url(images/badges-retina.png) !important;
 		background-size: 767px 603px !important;
 	}
 
 	.activity-badge{
-		background-image: url(images/badges-activity-retina.png); !important;
+		background-image: url(images/badges-activity-retina.png) !important;
 		background-size: 388px 301px !important;
 	}
 
